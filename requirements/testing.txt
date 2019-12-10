@@ -1,0 +1,9 @@
+-r staging.txt
+
+coverage==4.5.4
+Flask-Testing==0.7.1
+nose
+pytest==5.3.1
+pytest-cov==2.8.1
+
+

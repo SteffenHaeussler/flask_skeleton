@@ -1,0 +1,7 @@
+-r prod.txt
+
+ipython
+ipdb
+pytest
+pytest-cov
+flask_testing
